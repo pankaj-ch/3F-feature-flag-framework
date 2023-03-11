@@ -1,0 +1,12 @@
+{
+  "name": "feature-flag-framework",
+  "version": "0.0.1",
+  "description": "Feature flag & toggle management tool.",
+  "author": "Pankaj",
+  "scripts": {
+    "start": "cd server && pnpm start:dev",
+    "install": "cd server && pnpm i"
+  },
+  "keywords": ["feature-flag"],
+  "license": "MIT"
+}
